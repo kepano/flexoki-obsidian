@@ -1,3 +1,3 @@
 Flexoki color scheme for Obsidian. Based on [stephango.com/flexoki](https://stephango.com/flexoki)
 
-![Flexoki](/screenshot.png)
+![Flexoki](/cover.png)
