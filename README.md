@@ -3,3 +3,7 @@ Flexoki, an inky color scheme for Obsidian. Based on [stephango.com/flexoki](htt
 More at https://github.com/kepano/flexoki
 
 ![Flexoki](/cover.png)
+
+## Screenshots
+
+![Flexoki](/screenshot.png)
