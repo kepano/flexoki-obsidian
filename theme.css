@@ -65,14 +65,14 @@ body.theme-light {
 }
 body.theme-dark {
   --accent-h: 175;
-  --accent-s: 57%;
+  --accent-s: 56%;
   --accent-l: 33%;
 
-  --color-base-00: #1C1B1A;
-  --color-base-05: #1C1B1A;
+  --color-base-00: #100F0F;
+  --color-base-05: #100F0F;
   --color-base-10: #1C1B1A;
   --color-base-20: #1C1B1A;
-  --color-base-25: #1C1B1A;
+  --color-base-25: #282726;
 
   --color-base-30: #282726;
   --color-base-35: #343331;
